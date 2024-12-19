@@ -10,14 +10,14 @@ You can watch the webinar recording here:
 
 ## Running the Simulation and the Project
 
-WIP: For detailed instructions on how to run this simulation, please refer [to our comprehensive article](https://gatling.io/blog/load-test-an-ai-application-with-koyeb?utm_campaign=DevRel&utm_source=blog)
+For detailed instructions on how to run this simulation, please refer [to our comprehensive article](https://gatling.io/blog/load-test-an-ai-application-with-koyeb?utm_campaign=DevRel&utm_source=blog)
 
 
 ## Prerequisites
 
 - Gatling
 - Account on Koyeb
-- Account on Qdrant
+- Account on Qdrant Cloud
 
 
 ## To Go Further
